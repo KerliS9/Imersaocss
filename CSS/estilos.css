@@ -1,0 +1,39 @@
+body {
+    background-image: url('https://www.nasa.gov/sites/default/files/styles/image_card_4x3_ratio/public/thumbnails/image/pia23444-1600.jpg');
+    background-size: 1500px;
+    font-family: Calibri;
+    height: 1500px;
+  }
+  
+  .menu {
+    background-color: white;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  a {
+    color: teal;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-title, 
+  .site-subtitle {
+    color: #4433ff;
+    text-align: center;
+    }
+  
+   .site-subtitle {
+      font-style: italic;
+   }
+  
